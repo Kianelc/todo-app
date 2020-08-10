@@ -67,6 +67,6 @@ npm test
 - Axios
 - React-Router
 - Middlewares:
-  <p style="margin-bottom: 0px !important;">redux-multi</p>
-  <p style="margin-bottom: 0px !important;">redux-promise (deixou de ser utilizado na última versão da aplicação, porém deixei aqui)</p>
-  <p style="margin-bottom: 0px !important;">redux-thunk</p>
+  - redux-multi
+  - redux-promise (deixou de ser utilizado na última versão da aplicação, porém deixei aqui)
+  - redux-thunk
